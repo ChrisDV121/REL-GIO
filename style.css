@@ -2,9 +2,9 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #000000;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #0f9b0f, #000000);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #0f9b0f, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #ff8008;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #35332d, #ff8008);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #42403b, #ff8008); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     
 }
 
@@ -20,7 +20,7 @@ body{
   12.5px 12.5px 10px rgba(0, 0, 0, 0.16),
   30.1px 30.1px 24.1px rgba(0, 0, 0, 0.209),
   100px 100px 80px rgba(0, 0, 0, 0.32);
-    border-radius: 10px;
+    border-radius: 50px;
     margin-top: 200px;
     
     
